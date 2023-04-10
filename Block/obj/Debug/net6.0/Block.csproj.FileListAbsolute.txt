@@ -1,0 +1,15 @@
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\bin\Debug\net6.0\Block.exe
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\bin\Debug\net6.0\Block.deps.json
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\bin\Debug\net6.0\Block.runtimeconfig.json
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\bin\Debug\net6.0\Block.dll
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\bin\Debug\net6.0\Block.pdb
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.csproj.AssemblyReference.cache
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.AssemblyInfoInputs.cache
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.AssemblyInfo.cs
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.csproj.CoreCompileInputs.cache
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.dll
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\refint\Block.dll
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.pdb
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\Block.genruntimeconfig.cache
+C:\Users\МишаАня\Desktop\Языки программирования\Final\Block\obj\Debug\net6.0\ref\Block.dll
